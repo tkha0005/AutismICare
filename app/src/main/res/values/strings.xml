@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutismICare</string>
+    <string name="title_activity_home">AutismICare</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Iteration2</string>
+    <string name="title_notifications">Iteration3</string>
+
+    <string name="clickable">See Details</string>
+
+</resources>

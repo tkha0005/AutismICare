@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "342183029404",
+    "firebase_url": "https://autismicare-e7b46.firebaseio.com",
+    "project_id": "autismicare-e7b46",
+    "storage_bucket": "autismicare-e7b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342183029404:android:6f06c6f656c30038",
+        "android_client_info": {
+          "package_name": "com.example.autismicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342183029404-a4sgknepis5oaor5slp2k8mf2eccosab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autismicare",
+            "certificate_hash": "ad2faf006f9a933f816782015d07bfea3614fe5a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWFUb-J7S2eWpLkhudAsWFKWkV_aMvyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342183029404-iseeb24138dhql66jepu66ttambifjke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
